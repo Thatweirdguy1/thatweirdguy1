@@ -2,7 +2,7 @@
 
 Computer Science Engineering student focused on **applied AI, information retrieval, machine learning, and full-stack systems**.
 
-I like building projects where the engineering matters as much as the idea: reproducible experiments, real deployment constraints, data pipelines, backend APIs, security hygiene, and interfaces that people can actually use.
+I build projects where the engineering matters as much as the idea: reproducible experiments, backend APIs, deployment constraints, security hygiene, and interfaces that people can actually use.
 
 ## Selected work
 
@@ -18,7 +18,7 @@ Full-stack computerized maintenance management system for QR-based equipment wor
 
 **Stack:** Next.js · React · Flask · SQLite · APScheduler · Nginx · DigitalOcean
 
-[View repository](https://github.com/Thatweirdguy1/premindustries1)
+[View repository](https://github.com/Thatweirdguy1/industrial-management-cmns)
 
 ### SegreSmart Waste Detector
 Browser-side waste classification using ONNX Runtime Web, allowing image inference to run locally in the browser rather than sending images to a remote inference server.
@@ -29,7 +29,7 @@ Browser-side waste classification using ONNX Runtime Web, allowing image inferen
 
 ## Also built
 
-- **Happiness Project** — Flask microblogging/journaling platform with authentication, privacy controls, selective sharing, and SQLAlchemy relationships.
+- **Happiness Project** — Flask journaling platform with authentication, privacy controls, selective sharing, and SQLAlchemy relationships.
 - **Birkbeck Fire Drill** — Three.js first-person browser simulation with environmental hazards, oxygen mechanics, WebGL rendering, and game-state logic.
 
 ## Technologies
@@ -37,7 +37,7 @@ Browser-side waste classification using ONNX Runtime Web, allowing image inferen
 **Languages:** Python · Java · JavaScript · TypeScript · SQL  
 **Web:** React · Next.js · Flask · FastAPI · HTML/CSS  
 **AI/ML:** PyTorch · ONNX · RAG · embeddings · information retrieval · Qiskit  
-**Data & Infrastructure:** SQLite · Git · GitHub Actions · Linux · Nginx · DigitalOcean
+**Data & Infrastructure:** SQLite · Git · Linux · Nginx · DigitalOcean
 
 ## What I care about
 
