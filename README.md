@@ -32,13 +32,14 @@ Browser-side waste classification using ONNX Runtime Web, allowing image inferen
 - **Happiness Project** — Flask journaling platform with authentication, privacy controls, selective sharing, and SQLAlchemy relationships.
 - **Birkbeck Fire Drill** — Three.js first-person browser simulation with environmental hazards, oxygen mechanics, WebGL rendering, and game-state logic.
 
-## Resume & Credentials
+## Research, Coursework & Credentials
 
-- [Resume — 2026](https://drive.google.com/file/d/1VRI0knRhonSgZAXQ4wn0Xm_rnDnJbLwy/view)
-- [Curriculum Vitae — Aug 2026](https://drive.google.com/file/d/1Iz8IgLDP8WjMz9ThY7rVhhknR7zUfWvN/view)
-- [Certificates, reports & supporting documents](https://drive.google.com/drive/folders/164vsbAdEI4PcrQ-h_9q4oEy-QAVgvg9v)
-
-The archive includes technical certificates such as **CCNA: Introduction to Networks** and **Python for Data Science**, along with internship and academic project documentation.
+- Research work in **quantum-enhanced retrieval-augmented generation (Q-RAG)**, including a dedicated research paper and experimental evaluation.
+- Academic work in **Natural Language Processing**, **multimedia technologies**, and international/SAP coursework.
+- Technical certification in **CCNA: Introduction to Networks**.
+- Technical certification in **Python for Data Science**.
+- Industry internship experience documented through a full **industrial maintenance / CMMS project report**.
+- Additional academic project and term-paper work covering software, systems, and applied computing topics.
 
 ## Technologies
 
