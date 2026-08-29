@@ -80,6 +80,24 @@ Browser-side waste classifier using ONNX Runtime Web so image inference runs loc
 </td>
 <td width="50%" valign="top">
 
+### Model Cowork
+
+Open, dependency-free coordination kit for AI-assisted software work across Codex, Claude Code, GitHub Copilot, Antigravity, and Ollama.
+
+**Highlights**
+- Routes work by task fit, privacy, cost, latency, and available tools
+- Prevents parallel agents from claiming the same files
+- Creates portable handoffs with verification evidence and risk notes
+- Includes local-private routing and automated secret-leak protection
+
+**Stack**<br>
+`Python` `GitHub Actions` `Ollama` `Codex` `Claude Code` `GitHub Copilot`
+
+[Explore Model Cowork](https://github.com/Thatweirdguy1/Models-Cowork)
+
+</td>
+<td width="50%" valign="top">
+
 ### Additional Builds
 
 **Happiness Project**  
