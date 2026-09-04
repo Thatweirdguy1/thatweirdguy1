@@ -82,7 +82,7 @@ Browser-side waste classifier using ONNX Runtime Web so image inference runs loc
 
 ### Model Cowork
 
-Open, dependency-free coordination kit for AI-assisted software work across Codex, Claude Code, GitHub Copilot, Antigravity, and Ollama.
+Open, dependency-free coordination kit for AI-assisted software work across Codex, Claude Code, GitHub Copilot, Antigravity, Ollama, and Hermes Agent—with native NVIDIA Nemotron 3 Ultra routing.
 
 **Highlights**
 - Routes work by task fit, privacy, cost, latency, and available tools
@@ -91,7 +91,7 @@ Open, dependency-free coordination kit for AI-assisted software work across Code
 - Includes local-private routing and automated secret-leak protection
 
 **Stack**<br>
-`Python` `GitHub Actions` `Ollama` `Codex` `Claude Code` `GitHub Copilot`
+`Python` `GitHub Actions` `Ollama` `Codex` `Claude Code` `GitHub Copilot` `Hermes Agent` `NVIDIA Nemotron`
 
 [Explore Model Cowork](https://github.com/Thatweirdguy1/Models-Cowork)
 
